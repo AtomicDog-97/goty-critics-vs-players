@@ -1,1 +1,1 @@
-#Consultas SQL del análisis.
+Consultas SQL del análisis.
