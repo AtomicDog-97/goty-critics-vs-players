@@ -1,1 +1,0 @@
-Consultas SQL del análisis.
